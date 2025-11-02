@@ -35,3 +35,28 @@ The simulation results clearly demonstrate the trade-off between the number of T
 - 1000 TMDs: Provides the widest spread. The adaptive bandwidth strategy results in the broadest and most uniform "vibration absorption valley," ideal for broadband excitation.
 
 ## 📈 Results
+<div align="center">
+  <img src="assets/0.png" width="80%" />
+  
+  *Frequency Response with no absorbers for sinusoid input.*
+</div>
+<div align="center">
+  <img src="assets/1.png" width="80%" />
+  
+  *Frequency Response with 1 absorber for sinusoid input.*
+</div>
+<div align="center">
+  <img src="assets/10.png" width="80%" />
+  
+  *Frequency Response with 10 absorbers for sinusoid input.*
+</div>
+<div align="center">
+  <img src="assets/100.png" width="80%" />
+  
+  *Frequency Response with 100 absorbers for sinusoid input.*
+</div>
+<div align="center">
+  <img src="assets/1000.png" width="80%" />
+  
+  *Frequency Response with 1000 absorbers for sinusoid input.*
+</div>
